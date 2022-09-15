@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 statement: two and two makes 14;24
+=======
+Statement: the rise in the east 14:28
+>>>>>>> a8a79f1ea425a791b1f2624ad7c99b9b0415fe99
